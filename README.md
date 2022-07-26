@@ -8,7 +8,11 @@
 
 - It took me 3-4hr to make this project.
 
-## Screenshots
+[![badge](https://img.shields.io/badge/LINK%20OF-PROJECT--7-blue)](https://project7-26722.netlify.app/)
+
+---
+
+## Screenshot
 
 ![App Screenshot](./images/project7-image.png)
 
@@ -16,7 +20,7 @@
 
 ## 🛠 Skills learned
 
-HTML, CSS...
+HTML, CSS
 
 ---
 
@@ -26,7 +30,7 @@ HTML, CSS...
 
 - I am born and brought up in Vadodara, Gujarat. I have done my Btech at GTU university and I am currently learning Web-development.
 
-  ***
+---
 
 ## Feedback
 
