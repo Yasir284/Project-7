@@ -4,13 +4,20 @@
 
 # Project 7 - Product landing page
 
-- This project is a website of a headphone brand.This website is designed using pure HTML and CSS.
+- This project is a website of a headphone brand. This website is designed using pure HTML and CSS. I have made this site fully responsive. This is my first responsive site.
 
 - It took me 3-4hr to make this project.
 
 [![badge](https://img.shields.io/badge/LINK%20OF-PROJECT--7-blue)](https://project7-26722.netlify.app/)
 
 ---
+
+## Breakpoints
+
+- I have taken **three** breakpoints to make this site responsive.
+  - First at **1024px**
+  - Second at **912px**
+  - Third at **600px**
 
 ## Screenshot
 
