@@ -71,7 +71,6 @@ nav {
 }
 
 .left-section>h1 {
-    text-align: center;
     font-family: Fredoka One;
     font-size: 4.1rem;
     font-weight: 100;
@@ -136,24 +135,24 @@ p {
 }
 
 .discount-content {
+    box-sizing: border-box;
+    position: absolute;
+    top: 68%;
+    left: 17%;
+    transform: translateX(-0.5rem);
     font-family: Fredoka One;
     color: #fff;
-    position: absolute;
-    top: 70%;
-    left: 10%;
 }
 
 .discount-content h4 {
     margin: 0%;
-    margin-left: 44px;
-    font-size: smaller;
-    font-weight: 100;
+    /* margin-left: 44px; */
 }
 
 .discount-content h1 {
     margin: 0%;
-    margin-left: 34px;
-    font-weight: 100;
+    /* margin-left: 34px; */
+
 }
 
 
@@ -204,24 +203,15 @@ p {
 }
 
 
+
+
 /* BREAKPOINT-1 */
-
-@media (max-width:1024px) {
-    .discount-content {
-        font-family: Fredoka One;
-        color: #fff;
-        position: absolute;
-        top: 68%;
-        left: 8%;
-    }
-}
-
-/* BREAKPOINT-2 */
 
 @media (max-width:912px) {
 
     nav {
-        gap: 2px;
+        gap: 0.5rem;
+        margin-top: 15px;
     }
 
     .part1 {
@@ -229,7 +219,7 @@ p {
     }
 
     .part2 {
-        gap: 2rem;
+        gap: 1.5rem;
     }
 
     .nav-item {
@@ -251,20 +241,24 @@ p {
         padding-bottom: 3rem;
     }
 
+    .left-section h1 {
+        text-align: center;
+    }
+
     .sub-headlines {
         width: 100%;
     }
 
-    .discount-content {
-        position: absolute;
-        top: 69%;
-        left: 12%;
-    }
 }
 
 /* BREAKPOINT-3 */
 
 @media (max-width:600px) {
+
+    .part1 {
+        width: 60px;
+    }
+
     .left-section h3>img {
         width: 30px;
     }
@@ -305,8 +299,17 @@ p {
 
     .discount-content {
         position: absolute;
-        top: 69%;
-        left: 10%;
+        left: 18%;
+        top: 68%;
     }
+
+    .discount-content h1 {
+        font-size: 1.5rem;
+    }
+
+    .discount-content h4 {
+        font-size: 0.8rem;
+    }
+
 
 }

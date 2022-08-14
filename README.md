@@ -14,10 +14,9 @@
 
 ## Breakpoints
 
-- I have taken **three** breakpoints to make this site responsive.
-  - First at **1024px**
-  - Second at **912px**
-  - Third at **600px**
+- I have taken **Two** breakpoints to make this site responsive.
+  - First at **912px**
+  - Second at **600px**
 
 ## Screenshot
 
