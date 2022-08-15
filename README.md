@@ -2,9 +2,11 @@
 ![badge](https://img.shields.io/badge/TIME%20TAKEN-3--4hrs-red)
 [![badge](https://img.shields.io/badge/SEE%20DEMO%20-VISIT-green)](https://project7-26722.netlify.app/)
 
-# Project 7 - Product landing page
+# Product landing page
 
-- This project is a website of a headphone brand. This website is designed using pure HTML and CSS. I have made this site fully responsive. This is my first responsive site.
+- This is my **seventh** project.
+
+- This project is a website of a headphone brand. This website is designed using pure HTML and CSS. I have made this site fully responsive and this is my first responsive site.
 
 - It took me 3-4hr to make this project.
 
@@ -26,7 +28,7 @@
 
 ## 🛠 Skills learned
 
-HTML, CSS
+HTML, CSS, to make responsive site
 
 ---
 
